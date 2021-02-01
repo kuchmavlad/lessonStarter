@@ -1,1 +1,1 @@
-export { default as renderCalendar} from "./renderCalendar";
+export { default as renderApp} from "./renderApp";
